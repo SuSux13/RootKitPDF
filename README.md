@@ -11,4 +11,4 @@
 
 5ª bash mesagge.sh
 
-6ª sh setup.sh
+6ª bash sendlinuxx.sh
