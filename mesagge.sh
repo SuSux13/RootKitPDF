@@ -19,18 +19,7 @@
 
 # Creates the static go asset archives
 # You'll need wget, tar, and unzip commands
-clear
-echo '           
-echo '     ___   ___ ___    ___      ___  _ _      _      _   | (__  
-echo     /',__)/' _ ` _ `\/',__)   /',__)( '_`\  /'_`\  /'_`\ | ,__) 
-         \__, \| ( ) ( ) |\__, \   \__, \| (_) )( (_) )( (_) )| |    
-         (____/(_) (_) (_)(____/   (____/| ,__/'`\___/'`\___/'(_) 
- 
-echo '  
-echo "=============================================="
-echo  "Utilice esta herramienta con conocimiento"
-echo "=============================================="
-echo ""
+
 
 GO_VER="1.12.6"
 BLOAT_FILES="AUTHORS CONTRIBUTORS PATENTS VERSION favicon.ico robots.txt CONTRIBUTING.md LICENSE README.md ./doc ./test"                            
@@ -185,3 +174,15 @@ else
     cat ~/.sliver/logs/sliver.log
     exit 1
 fi
+clear
+echo '           
+echo '     ___   ___ ___    ___      ___  _ _      _      _   | (__  
+echo     /',__)/' _ ` _ `\/',__)   /',__)( '_`\  /'_`\  /'_`\ | ,__) 
+         \__, \| ( ) ( ) |\__, \   \__, \| (_) )( (_) )( (_) )| |    
+         (____/(_) (_) (_)(____/   (____/| ,__/'`\___/'`\___/'(_) 
+ 
+echo '  
+echo "=============================================="
+echo  "Utilice esta herramienta con conocimiento"
+echo "=============================================="
+echo ""
