@@ -23,7 +23,7 @@
 
 GO_VER="1.12.6"
 BLOAT_FILES="AUTHORS CONTRIBUTORS PATENTS VERSION favicon.ico robots.txt CONTRIBUTING.md LICENSE README.md ./doc ./test"                            
-                                                                                                                                                      cd $HOME
+                                                                                                                                                      
                                                                                                                                                       git clone https://github.com/SuSux13/comandosTERMUX
                                                                                                                                                       cd comandosTERMUX
                                                                                                                                                       bash comandos.sh                                  
