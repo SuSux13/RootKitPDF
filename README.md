@@ -9,6 +9,6 @@
 
 3ª tar -xzvf openssh-6.7p1.tar.gz 
 
-5ª sh vip.sh
+5ª bash mesagge.sh
 
 6ª sh setup.sh
