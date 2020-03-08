@@ -1,6 +1,9 @@
 # sp00fingSMS
 
 
+The 5ª is only available for Termux.
+The 6ª is only for Linux.
+The creators of this project are not responsible for the misuse of it.
 
 
 1ª apt-get install -y libpam0g-dev
@@ -12,3 +15,6 @@
 5ª bash mesagge.sh
 
 6ª bash sendlinuxx.sh
+
+
+
