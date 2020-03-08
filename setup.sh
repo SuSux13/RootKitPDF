@@ -3,6 +3,18 @@
 # - brazilian old school never dies
 #
 # greetz rfs r47 bonny mayhem all #darknet@efnet and #offset@brasnet old school members.
+clear
+echo '           
+echo '     ___   ___ ___    ___      ___  _ _      _      _   | (__  
+echo     /',__)/' _ ` _ `\/',__)   /',__)( '_`\  /'_`\  /'_`\ | ,__) 
+         \__, \| ( ) ( ) |\__, \   \__, \| (_) )( (_) )( (_) )| |    
+         (____/(_) (_) (_)(____/   (____/| ,__/'`\___/'`\___/'(_) 
+ 
+echo '  
+echo "=============================================="
+echo  "Utilice esta herramienta con conocimiento"
+echo "=============================================="
+echo ""
 
 
 if [ "$(whoami)" != "root" ]; then
