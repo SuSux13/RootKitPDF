@@ -1,4 +1,4 @@
-# sp00fingSMS
+# zx
 
 
 The 5ª is only available for Termux.
